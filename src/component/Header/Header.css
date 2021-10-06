@@ -1,0 +1,12 @@
+
+.header nav {
+    background-color: rgb(130, 233, 176);
+    font-size: 35px;
+    line-height: 70px;
+    
+    
+}
+.link {
+    text-decoration: none;
+    margin-right: 50px;
+}

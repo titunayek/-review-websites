@@ -1,0 +1,10 @@
+.friend-contain{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:10px;
+}
+.text-color{
+    color: rgb(222, 233, 233);
+    background-color: purple;
+    line-height: 50px;
+}
